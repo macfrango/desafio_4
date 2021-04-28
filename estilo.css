@@ -1,0 +1,29 @@
+
+html
+{
+    background-image: url("claro.jpg");
+}
+h1
+{
+    background-color: lavender;
+    text-align: center;
+    color: red;
+}
+h2
+{
+    color: brown;
+}
+
+div
+{
+    background-color: lavender;
+}
+body 
+{
+    width: 1000px;
+    
+    margin: 0 auto;
+    background-color: lightgoldenrodyellow;
+    padding: 0 20px 20px 20px;
+    border: 5px solid khaki;
+}
